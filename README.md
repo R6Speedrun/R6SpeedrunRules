@@ -1,1 +1,1 @@
-[Wiki](https://github.com/R6Speedrun/R6SpeedrunRules/wiki)
+[Wiki](https://github.com/R6Speedrun/r6-speedrun-rules/wiki)
